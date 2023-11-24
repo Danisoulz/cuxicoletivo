@@ -51,7 +51,7 @@ body{
 .apresentacao__conteudo{
     width: 50%px;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     gap: 20px;
     text-align: justify;
 
