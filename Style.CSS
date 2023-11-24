@@ -135,7 +135,7 @@ body{
         }
         
         .apresentacao{
-            flex-direction: column-reverse;
+            flex-direction: row;
             padding: 5%;
         }
     }
